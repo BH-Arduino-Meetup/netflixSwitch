@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NetFlix Switch - BH Arduiners</string>
+    <string name="pref_file_key">com.example.switchlistener.PREFERENCE_FILE_KEY</string>
+    <string name="pref_dnd_mode_on">switch_dnd_mode_on</string>
+    <string name="send">Enviar</string>
+    <string name="not_connected">Você não está conectado</string>
+    <string name="conect">Conectar</string>
+    <string name="conectado">Conectado!</string>
+    <string name="naopertube">Não pertube ativado</string>
+    <string name="chamadasBloqueadas">As chamadas serão bloqueadas</string>
+    <string name="ativar">Ativar NetFlix</string>
+    <string name="configurar">Conf.Controle</string>
+    <string name="bluetoothNoEnable">Bluetooth não está ativo</string>
+    <string name="reconfigurarBotões">Re-Conf.Botões</string>
+    <string name="duvidaReconfigurar">Tem certeza que deseja reconfigurar?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="comandosGravados">Comandos gravados!</string>
+    <string name="comandoRecebido">Comando recebido!</string>
+    <string name="cadastraBotao">Cadastra Botão</string>
+    <string name="finalizaCadastro">Finaliza cadastro</string>
+    <string name="iniciar">Iniciar!</string>
+    <string name="reconfigurar">Reconfigurar</string>
+    <string name="sair">Sair</string>
+    <string name="msgSair">Sair do Sistema</string>
+    <string name="duvidaSair">Deseja sair do Sistema?</string>
+    <string name="sejaBemVindo">Seja Bem Vindo</string>
+    <string name="btstatus_connecting_to_fmt">Conectando em: %s</string>
+    <string name="btstatus_connected_to_fmt">Conectado</string>
+    <string name="btstatus_not_connected">Não conetado</string>
+    <string name="enviandoComando">Enviando comando :</string>
+    <string name="envioConcluido">Envio concluído!</string>
+    <string name="reConf">Re-Configuração realizada!</string>
+    <!--  DeviceListActivity -->
+    <string name="title_select_device">Selecione um dispositivo para se conectar</string>
+    <string name="label_scanning">Procurando…</string>
+    <string name="label_no_available_devices">Nenhum dispositivo encontrado</string>
+    <string name="title_mock_devices">Mock Devices</string>
+    <string name="title_paired_devices">Dispositivos pareados</string>
+    <string name="title_other_devices">Outros dispositivos disponíveis</string>
+    <string name="button_scan">Procurar Disp.</string>
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView android:id="@+id/btstatus"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btstatus_not_connected"
+        android:background="#40ffffff"
+        />
+
+    <TextView
+        android:id="@+id/msg_welcome"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:linksClickable="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tableLayout0"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow0"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="5dip">
+
+            <Button
+                android:layout_height="fill_parent"
+                android:layout_width="fill_parent"
+                android:background="@drawable/botao"
+                android:textColor="#FFFFFF"
+                android:id="@+id/btnAtivarNetFlix"
+                android:onClick="ativarNetFlix"
+                android:text="@string/ativar"
+                android:visibility="gone"
+                android:layout_marginTop="20dp" />
+    </TableRow>
+
+    <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="5dip">
+
+                <Button
+                    android:layout_height="fill_parent"
+                    android:layout_width="fill_parent"
+                    android:background="@drawable/botao"
+                    android:textColor="#FFFFFF"
+                    android:id="@+id/btnConfigControle"
+                    android:onClick="configuarControles"
+                    android:visibility="gone"
+                    android:text="@string/configurar"
+                    android:layout_marginTop="20dp" />
+    </TableRow>
+
+    <TableRow
+            android:id="@+id/tableRow6"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="5dip">
+
+            <Button
+                android:layout_height="fill_parent"
+                android:layout_width="fill_parent"
+                android:background="@drawable/botao"
+                android:textColor="#FFFFFF"
+                android:id="@+id/btnConectar"
+                android:onClick="conectar"
+                android:text="@string/conect"
+                android:layout_marginTop="20dp" />
+    </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow10"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="5dip">
+
+            <Button
+                android:layout_height="fill_parent"
+                android:layout_width="fill_parent"
+                android:background="@drawable/botao"
+                android:textColor="#FFFFFF"
+                android:id="@+id/btnSair"
+                android:onClick="sair"
+                android:text="@string/sair"
+                android:layout_marginTop="20dp" />
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

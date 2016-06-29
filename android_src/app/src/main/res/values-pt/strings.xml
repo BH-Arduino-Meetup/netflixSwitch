@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Switch Listener</string>
+    <string name="ativar">Ativar NetFlix</string>
+    <string name="btstatus_connected_to_fmt"></string>
+</resources>

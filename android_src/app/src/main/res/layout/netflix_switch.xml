@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/sejaBemVindo"
+        android:textStyle="bold"
+        android:id="@+id/btStatusNet"
+        android:textSize="15sp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="#FFFFFF"
+        android:background="#000000"
+        />
+    <Button
+        android:id="@+id/btnAtivaNet"
+        android:background="@drawable/botao"
+        style="@style/ButtonText"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="ativarNetFlix"
+        android:visibility="gone"
+        android:text="@string/ativar" />
+
+    <Button
+        android:id="@+id/btnConfiguraNet"
+        style="@style/ButtonText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/botao"
+        android:gravity="center_horizontal"
+        android:onClick="configuarControles"
+        android:visibility="gone"
+        android:text="@string/configurar" />
+
+    <Button
+        android:id="@+id/btnConectaNet"
+        android:gravity="center_horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/botao"
+        style="@style/ButtonText"
+        android:onClick="conectar"
+        android:text="@string/conect" />
+
+    <Button
+        android:id="@+id/btnSairNet"
+        android:gravity="center_horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/botao"
+        style="@style/ButtonText"
+        android:onClick="sair"
+        android:text="@string/sair" />
+
+</LinearLayout>
