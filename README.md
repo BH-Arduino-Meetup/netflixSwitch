@@ -24,7 +24,7 @@ Seguindo estas e outras premissas e baseado no modelo do Fritzen listado abaixo,
 Caixa de Acrílico sendo desenvolvida. 
 ![alt text](https://cezarantsouza.files.wordpress.com/2016/06/img-20160605-wa0017.jpg "Versão final")
 
-Depois de mais alguns Brainstorms durante a construção, no dia 25/06/2016 durante o primeiro Meetup do BH Arduiners no FabLab,finalmentefoi apresentado a todos o resultado final do Gadget.   
+Depois de mais alguns Brainstorms durante a construção, no dia 25/06/2016 durante o primeiro Meetup do BH Arduiners no FabLab,finalmente foi apresentado a todos o resultado final do Gadget.   
 
 Além do resultado do protótipo físico, foi gerado também um documento super completo, com detalhamento de Data Sheets, dimensões do protótipo e todas as etapas de modelagem envolvidas. Este documento pode ser acessado [neste link ](https://cezarantsouza.files.wordpress.com/2016/06/relatc3b3rionetflix.pdf) e só ajudou a enriquecer ainda mais o projeto. 
 <br>
