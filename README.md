@@ -45,7 +45,7 @@ O código-fonte do arduíno ficou bastante enxuto e trabalha em conjunto com o a
 Já a montagem, pode ser feita com um Arduíno Uno e segue um esquema parecido com o mostrado abaixo, com poucas variações.
 ![alt text](https://cezarantsouza.files.wordpress.com/2016/06/protoboard.jpg "Fritzen")
 
-Pra nossa felicidade, tudo que diz respeito a Arduíno no projeto acabou se tornando bastante acessível e intuitivo, seguindo as premissas do Hardware Aberto. 
+Pra nossa felicidade, tudo que diz respeito a programação Arduíno no projeto acabou se tornando bastante acessível e intuitivo, seguindo as premissas do Hardware Aberto. 
 
 # Desenvolvimento Android 
 
