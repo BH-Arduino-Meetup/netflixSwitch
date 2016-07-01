@@ -1,7 +1,8 @@
 # Netflix Switch
 Em 13 de Fevereiro de 2016, nós do BH Arduiners nos reunimos em um Meetup, com a intenção de construir um Gadget anunciado pela empresa NetFlix, chamado [NetFlix Switch](http://makeit.netflix.com/the-switch), que utilizava diversas tecnologias. Entre elas o Arduíno.
-
-![alt text](https://cezarantsouza.files.wordpress.com/2016/06/botao.jpg "NetFlix Switch")
+<p align="center">
+<img class="alignnone size-full wp-image-3280" src="https://cezarantsouza.files.wordpress.com/2016/07/netflix-chill-button-01-1.jpg"          alt="netflix-chill-button-01-1" width="748" height="498" />
+</p>
 <br>
 Por diversos motivos, o dispositivo não foi possível de ser construído nos mesmos moldes propostos pela empresa. Porém, com componentes mais simples, modificações no código-fonte original e muita criatividade, conseguimos chegar a uma versão alternativa que além de atender aos requisitos propostos, também proporcionou bastante conhecimento para todos os envolvidos.  
 <br> 
