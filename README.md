@@ -14,7 +14,7 @@ O primeiro protótipo do Gadget foi apresentado durante o [Arduino Day 2016](htt
 ![alt text](https://cezarantsouza.files.wordpress.com/2016/06/componentes.jpg "Protoboard - Primeira versão")
 Durante o evento, com diversas sugestões da Designer [Katarine Inis](https://www.facebook.com/katarine.inis) fomos começando a desenvolver alternativas para abrigar os componentes de forma organizada e definindo algumas premissas próprias como: 
 
-1. Deixar os componentes a vista no projeto, evidênciando de forma lúdica a eletrônica envolvida 
+1. Deixar os componentes à vista no projeto, evidênciando de forma lúdica a eletrônica envolvida 
 2. Utilizar peças e modelagem 3d para montagem do projeto  
 3. Não fazer uso de placas de circuito impresso (PCB), para não aumentar a complexidade e o fazer o mesmo se tornar menos acessível
 
