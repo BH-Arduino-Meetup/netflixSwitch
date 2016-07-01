@@ -16,7 +16,7 @@ Durante o evento, com diversas sugestões da Designer [Katarine Inis](https://ww
 
 1. Deixar os componentes à vista no projeto, evidênciando de forma lúdica a eletrônica envolvida 
 2. Utilizar peças e modelagem 3d para montagem do projeto  
-3. Não fazer uso de placas de circuito impresso (PCB), para não aumentar a complexidade e o fazer o mesmo se tornar menos acessível
+3. Não fazer uso de placas de circuito impresso (PCB), para não aumentar a complexidade ou fazer o mesmo se tornar menos acessível
 
 Seguindo estas e outras premissas e baseado no modelo do Fritzen listado abaixo, o [Igor Carmo](https://www.facebook.com/igor.carmo.16) iniciou o desenvolvimento de uma caixinha utilizando peças de acrílico e uma uma protoboard reduzida.
 ![alt text](https://cezarantsouza.files.wordpress.com/2016/06/protoboard.jpg "Fritzen")
